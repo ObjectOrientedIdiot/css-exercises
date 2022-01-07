@@ -1,0 +1,18 @@
+.thingy {
+    font-family: Verdana, sans-serif;
+    background-color: pink;
+}
+.thingy.three {
+    font-size: 24px;
+}
+
+#idthing {
+    color: blue;
+    font-size: 36px;
+}
+
+#anotherid {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
